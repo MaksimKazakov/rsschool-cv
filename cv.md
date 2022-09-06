@@ -43,4 +43,15 @@ My weakness is in English communications. I know it is a temporary problem. I wi
   }
   console.log(getFactorialNumber(5)) // 120
   ```
-  
+  ## Work experience:
+<hr style="background:#FF9900; width:100%; height:5px; border:0; margin-top:-19px">
+
+  * [www.3dkazakov.ru](https://3dkazakov.ru)
+  ## Languages:
+<hr style="background:#FF9900; width:100%; height:5px; border:0; margin-top:-19px">
+
+  * Russian - native speaker
+  * English - A1 (A2 in process)
+
+  ## Follow Me on:
+<a href="https://github.com/MaksimKazakov"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
