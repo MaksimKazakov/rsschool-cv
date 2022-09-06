@@ -22,3 +22,25 @@ My strengths are excellent written and verbal communication skills. I can usuall
 <hr style="background:#FF9900; width:15%; height:2px; border:0; margin-top:-10px">
 
 My weakness is in English communications. I know it is a temporary problem. I will definitely put in an effort to improved and get success.
+
+## Skills:
+<hr style="background:#FF9900; width:100%; height:5px; border:0; margin-top:-19px">
+
+  * Git/GitHub
+  * HTML
+  * CSS
+  * JavaScript (Basic)
+  * Figma
+  * Photoshop, Illustrator
+  * 3D Max, V-Ray, Corona
+## Code Examples:
+<hr style="background:#FF9900; width:100%; height:5px; border:0; margin-top:-19px">
+
+  ```javascript
+  const getFactorialNumber = (n) => {
+    if (n === 0 || n === 1) return 1
+    else return n * getFactorialNumber( n   1)
+  }
+  console.log(getFactorialNumber(5)) // 120
+  ```
+  
